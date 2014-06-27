@@ -1,4 +1,4 @@
 tapme-ios
 =========
 
-An iOS Game 
+Its a Simple iOS Game using Timer.
